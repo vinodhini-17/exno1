@@ -85,4 +85,4 @@ print(df)
 ![image](https://github.com/vinodhini-17/exno1/assets/145742741/608b34dc-2d9e-49c9-a5b1-52a54e69fec9)
 
 # Result
-          <<include your Result here>>
+Thus To read the given data and perform data cleaning and save the cleaned data to a file done successfully.
